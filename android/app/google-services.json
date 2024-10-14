@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020710759774",
+    "project_id": "justlikeanimal-28407",
+    "storage_bucket": "justlikeanimal-28407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020710759774:android:38614f6c6409b56fc673cf",
+        "android_client_info": {
+          "package_name": "com.boss.justlikeanimal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLD3PA3kYrbE0Nl2GF-pa-DDMPoqsuV-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
